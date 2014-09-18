@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cli-color": "~0.3.2",
+    "coffee-script": "^1.8.0",
     "fs-extra": "^0.9.1",
     "gulp": "~3.6.2",
     "gulp-help": "~0.1.6",
